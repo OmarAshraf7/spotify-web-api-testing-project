@@ -17,7 +17,7 @@ The objective was to validate API functionality, authentication flow, response s
   - DELETE
 
 - Validated:
-  - OAuth 2.0 Authentication
+  - Basic Authentication
   - Access Token Generation
   - JSON Response Body
   - HTTP Status Codes
